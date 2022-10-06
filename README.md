@@ -1,6 +1,6 @@
 # push_swap
 
-This project requires to make an algorithm to sort a stack of numbers with minimum operation
+This project requires to make an algorithm to sort a stack of numbers with minimum operation in addition of a program (Checker) to check whether the operation which the algorithm follows actually sorts the program
 
 We are allowd to manipulate the stack using another stack and six operation:
 
