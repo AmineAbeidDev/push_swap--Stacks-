@@ -1,19 +1,16 @@
-#push_swap
+# push_swap
 
 This project requires to make an algorithm to sort a stack of numbers with minimum operation
 
 We are allowd to manipulate the stack using another stack and six operation:
 
-ra: to rotate the stack A (sends the first number to the end of stack A)
-
+ra: to rotate the stack A (sends the first number to the end of stack A)\n
 rb: to rotate the stack B
 
-rra: to reverse rotate the stack A (sends the last number to the start of stack A)
-
+rra: to reverse rotate the stack A (sends the last number to the start of stack A)\n
 rrb: to reverse rotate the stack B
 
-pa: to send the first element of stack A to the start of stack B
-
+pa: to send the first element of stack A to the start of stack B\n
 pb: to send the first element of stack B to the start of stack A
 
 Execute: ./push_swap (set of non-duplicated numbers)
