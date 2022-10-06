@@ -1,5 +1,7 @@
 # push_swap
 
+![ezgif com-crop](https://user-images.githubusercontent.com/38796098/57738594-6b6ae500-76b0-11e9-9d29-0f59ee825e8e.gif)
+
 This project requires to make an algorithm to sort a stack of numbers with minimum operation in addition of a program (Checker) to check whether the operation which the algorithm follows actually sorts the program
 
 We are allowd to manipulate the stack using another stack and six operation:
