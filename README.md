@@ -1,4 +1,4 @@
-#Push_swap
+#push_swap
 
 This project requires to make an algorithm to sort a stack of numbers with minimum operation
 
