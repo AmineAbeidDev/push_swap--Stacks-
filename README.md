@@ -13,6 +13,7 @@ rrb: to reverse rotate the stack B
 pa: to send the first element of stack A to the start of stack B<br />
 pb: to send the first element of stack B to the start of stack A
 
-Execute: ./push_swap (set of non-duplicated numbers)
+Execute: ./push_swap (set of non-duplicated numbers)<br />
+Execute: ./checker (set of operation)
 
 (Optmized for macOS)
