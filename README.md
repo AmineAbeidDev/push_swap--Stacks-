@@ -16,7 +16,7 @@ pa: to send the first element of stack A to the start of stack B<br />
 pb: to send the first element of stack B to the start of stack A
 
 after making:<br />
-&nbspExecute: `./push_swap (set of non-duplicated numbers)`<br />
-&nbspExecute: `./checker (set of operation)
+&nbsp;Execute: `./push_swap (set of non-duplicated numbers)`<br />
+&nbsp;Execute: `./checker (set of operation)
 
 (Optmized for macOS)
