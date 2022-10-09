@@ -17,6 +17,6 @@ pb: to send the first element of stack B to the start of stack A
 
 after making:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;Execute: `./push_swap (set of non-duplicated numbers)`<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Execute: `./checker (set of operation)
+&nbsp;&nbsp;&nbsp;&nbsp;Execute: `./checker (set of operation)`
 
 (Optmized for macOS)
